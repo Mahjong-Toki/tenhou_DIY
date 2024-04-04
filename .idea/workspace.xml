@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="b0330c8e-5c89-487d-a562-793475634c10" name="Default Changelist" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toki_saki.json" beforeDir="false" afterPath="$PROJECT_DIR$/toki_saki.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saki/act_chi_0.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_chi_0.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saki/act_kan_0.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_kan_0.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saki/act_pon_0.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_pon_0.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saki/act_rich_0.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_rich_0.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saki/act_ron_0.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_ron_0.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saki/act_tumo_15.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_tumo_15.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toki/act_chi_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_chi_62.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toki/act_kan_63.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_kan_63.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toki/act_pon_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_pon_62.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toki/act_rich_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_rich_62.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toki/act_ron_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_ron_62.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toki/act_tumo_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_tumo_62.mp3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,25 +24,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="2ecVDhmiVNhpvjxNT1IxIj2PBmu" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="1">
       <created>1712201695295</created>
@@ -68,8 +92,26 @@
       <option name="project" value="LOCAL" />
       <updated>1712202418305</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1712203671273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712203671273</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0330c8e-5c89-487d-a562-793475634c10" name="Default Changelist" comment="1" />
+      <created>1712203737791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712203737791</updated>
+      <workItem from="1712203739806" duration="2284000" />
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
