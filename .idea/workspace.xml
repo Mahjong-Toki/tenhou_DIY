@@ -9,12 +9,6 @@
       <change beforePath="$PROJECT_DIR$/saki/act_rich_0.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_rich_0.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saki/act_ron_0.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_ron_0.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saki/act_tumo_15.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/saki/act_tumo_15.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toki/act_chi_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_chi_62.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toki/act_kan_63.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_kan_63.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toki/act_pon_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_pon_62.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toki/act_rich_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_rich_62.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toki/act_ron_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_ron_62.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toki/act_tumo_62.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/toki/act_tumo_62.mp3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,9 +99,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712203737791</updated>
-      <workItem from="1712203739806" duration="2284000" />
+      <workItem from="1712203739806" duration="2723000" />
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1">
+      <created>1712207011538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712207011538</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <created>1712212174585</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712212174585</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
